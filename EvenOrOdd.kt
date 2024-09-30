@@ -1,3 +1,7 @@
+//Project: Even or Odd
+//Purpose: Calculate if a number is even or odd
+//Author: Elisa Aldridge
+
 fun main() {
     var num1 = 8
     var num2 = 9
